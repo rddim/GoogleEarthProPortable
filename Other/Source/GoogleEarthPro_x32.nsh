@@ -319,7 +319,6 @@
 	CopyFiles /SILENT $INSTDIR\App\tmp32\fil705134D2A32964F22BB0C0773D1B331E "$INSTDIR\App\Google Earth Pro\uninstall.ico"
 	CopyFiles /SILENT $INSTDIR\App\tmp32\fil50C8C72DEFB449CAABBBCDDB6297F284 "$INSTDIR\App\Google Earth Pro\vcruntime140.dll"
 
-
 	RMDir /r $INSTDIR\App\tmp32
 
 !macroend
